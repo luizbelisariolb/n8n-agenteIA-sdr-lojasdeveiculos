@@ -2,7 +2,7 @@
 
 **Nome do Workflow:** `n8n-agenteIA-sdr-lojasdeveiculos`
 
-Este workflow de automação low-code opera como um **SDR (Sales Development Representative) virtual avançado**, rodando 24/7 no WhatsApp. Ele é projetado para interagir com leads da loja de veículos Tompes Motors, qualificar intenções de compra/troca, realizar simulações complexas e encaminhar o cliente de forma precisa para o consultor humano. O sistema utiliza IA e orquestração de dados.
+Este workflow de automação low-code opera como um **SDR (Sales Development Representative) virtual avançado**, rodando 24/7 no WhatsApp. Ele é projetado para interagir com leads da loja de veículos, qualificar intenções de compra/troca, realizar simulações complexas e encaminhar o cliente de forma precisa para o consultor humano. O sistema utiliza IA e orquestração de dados.
 
 ---
 
